@@ -1,0 +1,1 @@
+Right now I'm just adding an include_once() to the functions file and running it through that.  I will change this.
